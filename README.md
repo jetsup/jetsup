@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm George Ngigi
 <h3 align="center">An embedded developer from <b>Kenya</b>.</h3>
 
-- 🔭 I’m currently working on my **Undergraduate Final Year Project**
+- 🔭 I’m currently working on my **Personal Projects** and random gigs.
 
 - 🌱 I’m currently learning **ROS**.
 
