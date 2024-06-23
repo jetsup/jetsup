@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Personal Projects** and random gigs.
 
-- 🌱 I’m currently learning **ROS**.
+- 🌱 I’m currently learning **ROS** and **Qt**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/jetsup](https://github.com/jetsup)
 
