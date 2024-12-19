@@ -16,7 +16,7 @@
 <a href="https://twitter.com/@George_x86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@George_x86" height="30" width="40" /></a>
 <a href="https://www.facebook.com/GeorgeyX86/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/GeorgeyX86/" height="30" width="40" /></a>
 <a href="https://dev.to/jetsup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jetsup" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/george-n-5408161b7" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="George" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ngigi-george" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="George" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
