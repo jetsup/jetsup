@@ -209,11 +209,13 @@ Developing automation tools and integrations for MikroTik infrastructure.
 ## GitHub Analytics
 
 <p>
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=jetsup&show_icons=true&theme=calm&include_all_commits=true&custom_title=GitHub+Stats&show=prs_merged_percentage,prs_reviewed"/>
+<img height="350" src="https://github-stats-extended.vercel.app/api?username=jetsup&show_icons=true&theme=calm&include_all_commits=true&custom_title=GitHub+Stats&show=prs_merged_percentage,prs_reviewed"/>
 
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jetsup&layout=donut&langs_count=6&theme=calm&hide=html,css,scss,less,makefile"/>
+<img height="350" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jetsup&layout=donut&langs_count=6&theme=calm&hide=html,css,scss,less,makefile"/>
+</p>
 
-<img height="170" src="https://streak-stats.demolab.com?user=jetsup&theme=calm"/>
+<p>
+<img width="100%" src="https://streak-stats.demolab.com?user=jetsup&theme=calm"/>
 </p>
 
 ---
