@@ -1,48 +1,227 @@
-<h1 align="center">Hi 👋, I'm George Ngigi
-<h3 align="center">An embedded developer from <b>Kenya</b>.</h3>
-
-- 🔭 I’m currently working on my **Personal Projects** and random gigs.
-
-- 🌱 I’m currently learning **ROS** and **Qt**.
-
-- 👨‍💻 All of my projects are available at [https://github.com/jetsup](https://github.com/jetsup)
-
-- 💬 Ask me about **Java**, **Python**, **C/C++** and **Linux** related stuff.
-
-- 📫 How to reach me **ngigegeorge023@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@George_x86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@George_x86" height="30" width="40" /></a>
-<a href="https://www.facebook.com/GeorgeyX86/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/GeorgeyX86/" height="30" width="40" /></a>
-<a href="https://dev.to/jetsup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jetsup" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ngigi-george" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="George" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Embedded+Software+Engineer;Backend+Developer;Linux+Enthusiast;Building+Systems+from+PCB+to+Cloud" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
- </p>
- <br>
-<div>
-<p style="margin-top: 20px"><img align="left" src="https://github-stats-extended.vercel.app/api?username=jetsup&show_icons=true&theme=calm&include_all_commits=true&custom_title=George's+Stats&disable_animations=false&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="jetsup" /></p>
+<h1 align="center">George Ngigi</h1>
 
-<p style="margin-top: 200px;">&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jetsup&langs_count=6&layout=donut&theme=calm&hide=html,css,scss,less,makefile,vue&custom_title=George's+Top+Languages" alt="jetsup" /></p>
-</div>
-<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=jetsup&label=Profile%20views&color=0e75b6&style=flat" alt="jetsup" /></p> -->
+<p align="center">
+<img src="https://img.shields.io/badge/Linux-Lover-FCC624?logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Embedded-Engineer-00599C?logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-3DA639?logo=github"/>
+<img src="https://img.shields.io/badge/Kenya-🇰🇪-green"/>
+</p>
+
+<h3 align="center">
+Embedded Systems • Backend Engineering • Linux • Networking
+</h3>
+
+<p align="center">
+Designing intelligent systems from embedded devices to cloud infrastructure.
+</p>
+
+<p align="center">
+<a href="mailto:ngigegeorge023@gmail.com">Email</a> •
+<a href="https://github.com/jetsup">GitHub</a> •
+<a href="https://www.linkedin.com/in/ngigi-george">LinkedIn</a> •
+<a href="https://dev.to/jetsup">Dev.to</a>
+</p>
+
+---
+
+## About Me
+
+I'm an **Embedded Software Engineer** from **Kenya** passionate about designing reliable systems that bridge embedded hardware, Linux, networking, and modern backend technologies.
+
+From firmware running on microcontrollers to APIs, automation platforms, and network infrastructure, I enjoy building complete systems that solve real-world problems.
+
+**Interests**
+
+<table>
+<tr>
+<td>
+
+- Embedded Linux
+- Robotics
+- Network Infrastructure
+
+</td>
+
+<td>
+
+- Backend Architecture
+- IoT Systems
+- Linux Internals
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**ISP Billing & Network Management Platform**
+
+A full-stack ISP management solution integrating MikroTik, FreeRADIUS, payments, and customer automation.
+
+</td>
+
+<td width="50%">
+
+**Smart Home Platform**
+
+Building a scalable smart home ecosystem integrating embedded devices, automation, and cloud services.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**Embedded Linux Experiments**
+
+Exploring Linux device programming, drivers, and embedded applications.
+
+</td>
+
+<td>
+
+**Network Automation**
+
+Developing automation tools and integrations for MikroTik infrastructure.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Currently Exploring
+
+<table>
+<tr>
+<td>
+
+- ROS 2
+- Qt Framework
+- Advanced C++
+
+</td>
+
+<td>
+
+- Modern Embedded Design
+- Computer Vision
+- Embedded Linux
+
+</td>
+</tr>
+</table>
+
+---
+
+## Ask Me About
+
+<table>
+<tr>
+<td>
+
+- C / C++
+- Python
+- Java
+
+</td>
+
+<td>
+
+- Linux
+- Embedded Systems
+- Networking
+
+</td>
+
+<td>
+
+- MikroTik
+- Laravel
+- Backend Development
+
+</td>
+</tr>
+</table>
+
+---
+
+## Contact
+
+📧 **[ngigegeorge023@gmail.com](mailto:ngigegeorge023@gmail.com)**
+
+---
+
+## Connect
+
+<p>
+<a href="https://twitter.com/George_x86">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="32"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ngigi-george">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://dev.to/jetsup">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="32"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/GeorgeyX86/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="32"/>
+</a>
+</p>
+
+---
+
+## Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,go,php,javascript,bash" />
+</p>
+
+### Backend Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,laravel,django,nodejs,express,mysql,mongodb,redis" />
+</p>
+
+### Tools and Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,raspberrypi,androidstudio,postman,vscode"/>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=jetsup&show_icons=true&theme=calm&include_all_commits=true&custom_title=GitHub+Stats&show=prs_merged_percentage,prs_reviewed"/>
+
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jetsup&layout=donut&langs_count=6&theme=calm&hide=html,css,scss,less,makefile"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=jetsup&theme=calm"/>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+> Turning ideas into reliable systems, one layer at a time.
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jetsup&theme=github-compact"/>
+</p>
