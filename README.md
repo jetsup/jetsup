@@ -39,9 +39,10 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
  </p>
+ <br>
+<div>
+<p style="margin-top: 20px"><img align="left" src="https://github-stats-extended.vercel.app/api?username=jetsup&show_icons=true&theme=calm&include_all_commits=true&custom_title=George's+Stats&disable_animations=false&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="jetsup" /></p>
 
-<p style="margin-top: 20px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jetsup&show_icons=true&locale=en&layout=compact" alt="jetsup" /></p>
-
-<p style="margin-top: 200px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jetsup&show_icons=true&locale=en" alt="jetsup" /></p>
-
+<p style="margin-top: 200px;">&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jetsup&langs_count=6&layout=donut&theme=calm&hide=html,css,scss,less,makefile,vue&custom_title=George's+Top+Languages" alt="jetsup" /></p>
+</div>
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=jetsup&label=Profile%20views&color=0e75b6&style=flat" alt="jetsup" /></p> -->
