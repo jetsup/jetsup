@@ -220,10 +220,10 @@ Developing automation tools and integrations for MikroTik infrastructure.
 
 ---
 
-## ⚡ Philosophy
-
-> Turning ideas into reliable systems, one layer at a time.
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jetsup&theme=github-compact"/>
 </p>
+
+## ⚡ Philosophy
+
+> Turning ideas into reliable systems, one layer at a time.
